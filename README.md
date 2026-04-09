@@ -1,4 +1,3 @@
-<img width="1225" height="651" alt="image" src="https://github.com/user-attachments/assets/fd0830af-c8a5-4d28-b5e1-2b174b507da7" /><div align="center">
 
 <!-- GOLD CYBER HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=260&section=header&text=Yasmine%20Shili&fontSize=60&fontColor=FFD700&animation=fadeIn" />
