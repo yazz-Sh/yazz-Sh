@@ -38,14 +38,14 @@
 
 </div>
 
-Hanicar Security is a modern **Cyber Threat Intelligence platform** designed to:
+Hanicar Security is a modern **CyberSecurity Company** based in Tunisia and designed to:
 
 - detect cyber threats  
 - analyze incidents  
 - automate response workflows  
 - support SOC operations  
 - improve cyber resilience  
-
+- neutralize threats and attacks
 ---
 
 # 👩‍💼 Leadership Role
