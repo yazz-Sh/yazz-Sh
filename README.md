@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- GOLD CYBER HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=260&section=header&text=Yasmine%20Shili&fontSize=60&fontColor=FFD700&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=260&section=header&text=Yasmine%20Shili&fontSize=60&fontColor=000000&animation=fadeIn" />
 
 <br>
 <img src="./hanicar.png" width="140" style="filter: drop-shadow(0 0 8px #FFD700);" /><br/>
