@@ -1,71 +1,67 @@
-<!-- GOLD & BLACK THEMED ANIMATED GITHUB README -->
+<!-- PROFESSIONAL CYBERSECURITY GITHUB README -->
+<!-- Theme: Dark / Sharp / Executive -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=HANICAR+SECURITY;Cyber+Threat+Intelligence+Platform;Defending+Digital+Infrastructure;Security+Driven+Innovation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=HANICAR+SECURITY;Cyber+Threat+Intelligence+Platform;Security+Driven+Innovation;Incident+Detection+%26+Response" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=200&section=header&text=Hanicar%20Security&fontSize=50&fontColor=000000&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=200&section=header&text=Hanicar%20Security&fontSize=45&fontColor=00BFFF&animation=fadeIn" />
 
 </div>
 
 ---
 
-<div align="center">
+# 🛡️ Hanicar Security
 
-# 🛡️ HANICAR SECURITY
-
-## Cyber Threat Intelligence • Incident Response • Threat Detection
-
-</div>
+### Cyber Threat Intelligence • Incident Response • Security Automation
 
 ---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ROLE-Co--Founder%20%26%20Chief%20Commercial%20Officer-FFD700?style=for-the-badge" />
-<img src="https://img.shields.io/badge/COMPANY-Hanicar%20Security-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FOCUS-Cyber%20Security-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Role-Co--Founder%20%26%20Chief%20Commercial%20Officer-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Company-Hanicar%20Security-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Domain-Cyber%20Security-blue?style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🧠 About Me
+# 👨‍💼 About Me
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThnZmZ2N3p1eGJ4ZzQ5eXJmNmZqZXQ4OGJpY3R4b3B3dG5lZ3FqYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600"/>
 
 </div>
 
-I am a **technology leader and cybersecurity strategist** working on advanced **Cyber Threat Intelligence** systems.
+I am part of the executive leadership of **Hanicar Security**, working on the design, positioning, and deployment of a modern **Cyber Threat Intelligence (CTI)** platform.
 
-Currently serving as:
+Current role:
 
 **Co-Founder & Chief Commercial Officer (CCO)**  
-at
+at  
 
 **Hanicar Security**
 
-I focus on:
+Core responsibilities:
 
-- Cyber Threat Intelligence
-- Security Operations
-- Incident Response Automation
-- Threat Detection Platforms
-- Cybersecurity Business Strategy
-- Security Product Development
+- Cybersecurity product strategy
+- Threat intelligence platform positioning
+- Security operations coordination
+- Incident response workflow design
+- Security solution deployment
+- Business and technology alignment
 
 ---
 
-# 🏢 Hanicar Security
+# 🏢 Hanicar Security Platform
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PLATFORM-Cyber%20Threat%20Intelligence-FFD700?style=for-the-badge" />
-<img src="https://img.shields.io/badge/STACK-AI%20%7C%20Security%20%7C%20Automation-black?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,react,docker,kubernetes,linux,postgresql" />
 
 </div>
 
@@ -73,7 +69,8 @@ Hanicar Security is a **Cyber Threat Intelligence platform** designed to:
 
 - ingest security alerts
 - correlate threat intelligence
-- detect cyber incidents
+- detect incidents
+- match vulnerabilities (CVEs)
 - generate automated recommendations
 - assist SOC teams
 - improve cyber defense readiness
@@ -82,47 +79,38 @@ Hanicar Security is a **Cyber Threat Intelligence platform** designed to:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="650"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="650"/>
 
 </div>
 
 ---
 
-# 👩‍💻 Leadership & Team
+# 👩‍💻 Leadership Team
 
 <div align="center">
 
 ## Yassmin Shili
 
-<img src="https://img.shields.io/badge/TEAM-Core%20Leadership-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Team-Core%20Leadership-blue?style=for-the-badge" />
 
 <br><br>
 
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
 
 </div>
 
-Key contributor to:
+Key contributions:
 
 - Cybersecurity operations
-- Intelligence workflows
-- Platform development
-- Threat analysis
+- Threat intelligence workflows
 - System coordination
+- Platform support
+- Incident handling
 
 ---
 
 # ⚡ Platform Capabilities
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,react,nodejs,docker,kubernetes,linux,postgresql" />
-
-</div>
-
-Core features:
 
 - Threat Intelligence correlation
 - IOC extraction
@@ -130,20 +118,20 @@ Core features:
 - Incident scoring
 - Automated recommendations
 - SOC dashboard
-- Authentication system
 - Case management
+- Security analytics
 
 ---
 
-# 📊 System Architecture
+# 🧠 System Architecture
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="650"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="650"/>
 
 </div>
 
-Platform integrates:
+Integrated components:
 
 - Wazuh
 - MISP
@@ -159,7 +147,7 @@ Platform integrates:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Protecting+Infrastructure;Defending+Organizations;Building+Cyber+Resilience" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Protecting+Infrastructure;Defending+Organizations;Building+Cyber+Resilience" />
 
 </div>
 
@@ -167,34 +155,34 @@ Our mission:
 
 Build intelligent systems capable of:
 
-- detecting threats
-- analyzing attacks
-- preventing breaches
-- securing infrastructure
+- detecting threats  
+- analyzing attacks  
+- preventing breaches  
+- securing infrastructure  
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yazz-Sh&show_icons=true&theme=dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazz-Sh&layout=compact&theme=dark" />
 
 </div>
 
 ---
 
-# 🔥 Live Platform
+# 🔥 Platform Status
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-Active-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System-Operational-blue?style=for-the-badge" />
 
 </div>
 
-Platform components:
+Core modules:
 
 - CTI dashboard
 - Incident management
@@ -203,21 +191,8 @@ Platform components:
 
 ---
 
-# 🛡️ Cybersecurity Domains
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/SOC-Operations-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Threat-Intelligence-FFD700?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Incident-Response-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Security-Automation-FFD700?style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=150&section=footer" />
 
 </div>
