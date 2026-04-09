@@ -6,8 +6,9 @@
 
 
 <br/>
-<img src="./hanicar.png" width="140" style="filter: drop-shadow(0 0 8px #FFD700);" />
-<br>
+<center><img src="./hanicar.png" width="140" style="filter: drop-shadow(0 0 8px #FFD700);" />
+</center>
+ <br>
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=FFD700&center=true&vCenter=true&width=1000&lines=Cybersecurity+%26+Threat+Intelligence;Co-Founder+%26+Chief+Commercial+Officer;Building+Autonomous+Security+Systems;Hanicar+Security" />
 
