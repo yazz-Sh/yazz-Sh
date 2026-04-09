@@ -1,18 +1,15 @@
+<div align="center">
 
 <!-- GOLD CYBER HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=260&section=header&text=Yasmine%20Shili&fontSize=60&fontColor=FFD700&animation=fadeIn" />
 
 <br>
-
-
-<br/>
-<center><img src="./hanicar.png" width="140" style="filter: drop-shadow(0 0 8px #FFD700);" />
-</center>
- <br>
+<img src="./hanicar.png" width="140" style="filter: drop-shadow(0 0 8px #FFD700);" /><br/>
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=FFD700&center=true&vCenter=true&width=1000&lines=Cybersecurity+%26+Threat+Intelligence;Co-Founder+%26+Chief+Commercial+Officer;Building+Autonomous+Security+Systems;Hanicar+Security" />
 
 </div>
+
 
 ---
 
@@ -38,14 +35,14 @@
 
 </div>
 
-Hanicar Security is a modern **CyberSecurity Company** based in Tunisia and designed to:
+Hanicar Security is a modern **Cyber Threat Intelligence platform** designed to:
 
 - detect cyber threats  
 - analyze incidents  
 - automate response workflows  
 - support SOC operations  
 - improve cyber resilience  
-- neutralize threats and attacks
+
 ---
 
 # 👩‍💼 Leadership Role
