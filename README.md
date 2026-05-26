@@ -60,29 +60,8 @@ A security-focused CI/CD project showing how security checks can be integrated e
 
 ---
 
-### [Jenkins-Springboot](https://github.com/yazz-Sh/Jenkins-Springboot)
 
-A Jenkins and Spring Boot project focused on CI/CD fundamentals and automation practice.
 
-**Why it matters:** it shows pipeline understanding, which is useful for security automation and secure delivery.
-
----
-
-### [CampConnect_Symfony](https://github.com/yazz-Sh/CampConnect_Symfony)
-
-A Symfony web application project showing backend structure, application logic, and web development practice.
-
-**Why it matters:** it shows full-stack foundations and backend development experience.
-
----
-
-### [campconnect_java](https://github.com/yazz-Sh/campconnect_java)
-
-A Java version of the CampConnect project, reflecting earlier application development work and Java fundamentals.
-
-**Why it matters:** it shows progression from academic development work toward cleaner engineering practice.
-
----
 
 ## Technical stack
 
