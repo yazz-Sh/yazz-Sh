@@ -102,7 +102,7 @@ Security topics I’m especially drawn to:
 ## Contact
 
 - GitHub: [@yazz-Sh](https://github.com/yazz-Sh)
-- LinkedIn: [add your link here](www.linkedin.com/in/yasmine-shili/)
-- Email: [your.email@example.com](mailto:yasmine.shili.04@gmail.com)
+- LinkedIn: (www.linkedin.com/in/yasmine-shili/)
+- Email: (mailto:yasmine.shili.04@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:ffe4f1,35:f9a8d4,70:f0abfc,100:c4b5fd" width="100%" />
