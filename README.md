@@ -122,7 +122,7 @@ That is the standard I want to move toward.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yazz-Sh&show_icons=true&count_private=true&bg_color=fff7fb&title_color=be185d&text_color=374151&icon_color=f472b6&border_color=f9a8d4" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=yazz-Sh&amp;show_icons=true&amp;count_private=true&amp;bg_color=fff7fb&amp;title_color=be185d&amp;text_color=374151&amp;icon_color=f472b6&amp;border_color=f9a8d4" width="48%" alt="GitHub Stats" />
 
 </div>
 
