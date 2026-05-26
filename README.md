@@ -152,7 +152,7 @@ That is the standard I want to move toward.
 ## Contact
 
 - GitHub: [@yazz-Sh](https://github.com/yazz-Sh)
-- LinkedIn: [add your LinkedIn link here](https://www.linkedin.com/)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Shili Yasmine ](www.linkedin.com/in/yasmine-shili)
+- Email: [Shili Yasmine ](mailto:yasmine.shili.04@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:fff1f5,30:f9a8d4,65:f0abfc,100:c4b5fd" width="100%" />
