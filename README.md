@@ -1,208 +1,165 @@
 <div align="center">
 
-<!-- GOLD CYBER HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=260&section=header&text=Yasmine%20Shili&fontSize=60&fontColor=000000&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:7c3aed,100:06b6d4&height=230&section=header&text=Yasmine%20Shili&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%7C%20DevSecOps%20%7C%20Threat%20Intelligence%20%7C%20Creative%20Builder&descAlignY=57&descSize=18" />
 
 <br>
-<img src="./hanicar.png" width="140" style="filter: drop-shadow(0 0 8px #FFD700);" /><br/>
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=FFD700&center=true&vCenter=true&width=1000&lines=Cybersecurity+%26+Threat+Intelligence;Co-Founder+%26+Chief+Commercial+Officer;Building+Autonomous+Security+Systems;Hanicar+Security" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=I+build+secure+systems%2C+not+boring+slides.;DevSecOps+pipelines+%E2%9A%A1+SOC+tools+%F0%9F%9B%A1%EF%B8%8F+Threat+Intel+%F0%9F%A7%A0;Turning+academic+projects+into+real+engineering+stories.;Welcome+to+my+developer+control+room." />
+
+<br><br>
+
+<a href="https://github.com/yazz-Sh?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20my%20repos-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/yazz-Sh?tab=projects">
+  <img src="https://img.shields.io/badge/My%20projects-7c3aed?style=for-the-badge&logo=githubactions&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Contact%20me-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=yazz-Sh&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/yazz-Sh?label=FOLLOWERS&style=for-the-badge&color=06b6d4&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20IN%20PUBLIC-22c55e?style=for-the-badge" />
 
 </div>
 
-
 ---
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=yazz-Sh&label=PROFILE+VIEWS&color=FFD700&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/yazz-Sh?label=FOLLOWERS&style=for-the-badge&color=000000&logo=github&logoColor=FFD700" />
-
-<img src="https://img.shields.io/badge/SYSTEM_STATE-OPERATIONAL-FFD700?style=for-the-badge&labelColor=black" />
-
-<img src="https://img.shields.io/badge/SECURITY_LEVEL-ACTIVE-FFD700?style=for-the-badge&labelColor=black" />
-
-</div>
-
-<hr style="border: 1px solid #FFD700; box-shadow: 0 0 8px #FFD700;"/>
-
-# 🛡️ Hanicar Security
-
-<div align="center">
-
-
-</div>
-
-Hanicar Security is a modern **Cyber Threat Intelligence platform** designed to:
-
-- detect cyber threats  
-- analyze incidents  
-- automate response workflows  
-- support SOC operations  
-- improve cyber resilience  
-
----
-
-# 👩‍💼 Leadership Role
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ROLE-Co--Founder%20%26%20Chief%20Commercial%20Officer-FFD700?style=for-the-badge&labelColor=black" />
-
-<img src="https://img.shields.io/badge/COMPANY-Hanicar%20Security-black?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/DOMAIN-Cybersecurity-FFD700?style=for-the-badge&labelColor=black" />
-
-</div>
-
-Responsibilities include:
-
-- Cybersecurity strategy  
-- Incident response coordination  
-- Threat intelligence operations  
-- Security platform deployment  
-- Business and technology alignment  
-
----
-
-# ⚡ Platform Capabilities
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,nodejs,docker,kubernetes,linux,postgresql,react" />
-
-</div>
-
-Core features:
-
-- Threat Intelligence correlation  
-- IOC extraction  
-- CVE matching  
-- Automated incident response  
-- Security monitoring  
-- SOC dashboard  
-
----
-
-# 🚀 System Architecture
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="650"/>
-
-</div>
-
-Platform integrates:
-
-- Wazuh  
-- MISP  
-- Cortex  
-- CVE databases  
-- Security analytics  
-- Incident workflow automation  
-
----
-
-# ⚔️ Security Domains
-
-<table width="100%">
- <tr>
-   <td width="50%" style="padding: 10px; vertical-align: top;">
-     <h3 style="color:#FFD700;">🔴 Defensive Security</h3>
-     <ul>
-       <li>Threat detection</li>
-       <li>Incident response</li>
-       <li>Security monitoring</li>
-       <li>SOC operations</li>
-     </ul>
-   </td>
-   <td width="50%" style="padding: 10px; vertical-align: top;">
-     <h3 style="color:#FFD700;">🛡️ Operational Security</h3>
-     <ul>
-       <li>Incident coordination</li>
-       <li>Security workflow design</li>
-       <li>Threat intelligence operations</li>
-       <li>Platform deployment</li>
-     </ul>
-   </td>
-  </tr>
-</table>
-
----
-
-# 🚀 Flagship Systems
-
-<div align="center">
 
 <table>
 <tr>
-<td width="50%" style="background:#0a0a0a; border:1px solid #FFD700; border-radius:12px; padding:15px;">
-<h3 style="color:#FFD700;">Threat Intelligence Engine</h3>
-<p>Real-time detection and response automation for cybersecurity incidents.</p>
-</td>
+<td width="55%">
 
-<td width="50%" style="background:#0a0a0a; border:1px solid #FFD700; border-radius:12px; padding:15px;">
-<h3 style="color:#FFD700;">Security Automation Platform</h3>
-<p>Workflow-driven security operations for modern SOC environments.</p>
-</td>
+## 👋 Hey, I’m Yasmine
 
+I’m a cybersecurity and DevSecOps builder who likes turning messy technical ideas into clean, useful, and secure systems.
+
+I’m building my GitHub as a real portfolio, not a graveyard of academic projects.
+
+### What I care about
+
+- 🛡️ Cybersecurity engineering  
+- ⚙️ Secure CI/CD and DevSecOps  
+- 🧠 Threat intelligence and SOC tooling  
+- 🐳 Docker, automation, pipelines, monitoring  
+- 🎨 Clean interfaces and projects that look alive  
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" />
+
+<br>
+
+<b>Current mode:</b> shipping, learning, improving.
+
+</td>
 </tr>
 </table>
 
+---
+
+## 🧭 Choose your path
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>🚀 Repositories</h3>
+<p>Code, experiments, security labs, and full-stack projects.</p>
+<a href="https://github.com/yazz-Sh?tab=repositories"><b>Open repos →</b></a>
+</td>
+
+<td align="center" width="33%">
+<h3>🧪 Projects</h3>
+<p>What I am building, testing, breaking, and rebuilding better.</p>
+<a href="https://github.com/yazz-Sh?tab=projects"><b>Open projects →</b></a>
+</td>
+
+<td align="center" width="33%">
+<h3>📌 Pinned Work</h3>
+<p>My best work should be pinned right below this README.</p>
+<a href="https://github.com/yazz-Sh"><b>View profile →</b></a>
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 Featured builds
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ DevSecOps Secure CI/CD Pipeline
+
+A security-focused CI/CD project showing automation, security checks, and pipeline hardening.
+
+<b>Stack:</b> GitHub Actions · Docker · Security scanning · DevSecOps
+
+<a href="https://github.com/yazz-Sh/devsecops-secure-cicd-pipeline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yazz-Sh&repo=devsecops-secure-cicd-pipeline&bg_color=0f172a&title_color=22d3ee&text_color=ffffff&icon_color=a78bfa&border_color=7c3aed" />
+</a>
+
+</td>
+<td width="50%">
+
+### ⚔️ Cyber Threat Intelligence Lab
+
+A security lab around alert enrichment, CVE correlation, incident response, and SOC workflows.
+
+<b>Stack:</b> Python · Wazuh · MISP · Cortex · Elastic · APIs
+
+<a href="https://github.com/yazz-Sh?tab=repositories&q=security">
+  <img src="https://img.shields.io/badge/View%20security%20repos-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="360" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech arsenal
+
+<div align="center">
+
+### Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,vue,html,css" />
+
+<br><br>
+
+### DevOps, Security & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions,git,bash,postgresql" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Wazuh-0f172a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MISP-7c3aed?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cortex-06b6d4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Elastic-0f172a?style=for-the-badge&logo=elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/SOC%20Automation-22c55e?style=for-the-badge" />
+
 </div>
 
 ---
 
-# 🧰 Technology Stack
+## 🧠 My developer mindset
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFD700" />
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFD700" />
-
-</div>
-
----
-
-# 📊 GitHub Insights
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yazz-Sh&show_icons=true&count_private=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff&border_color=FFD700" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yazz-Sh&background=0d1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=ffffff&sideNums=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=ffffff&border=FFD700" width="48%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yazz-Sh&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&area=true&hide_border=true" width="90%"/>
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-<div style="background:#0a0a0a; border-left: 4px solid #FFD700; border-radius: 12px; padding: 16px;">
-
-- Building advanced cybersecurity platforms  
-- Improving incident response automation  
-- Strengthening threat intelligence workflows  
-- Supporting security operations  
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=120&section=footer"/>
-
-</div>
+```txt
+mission        : build projects that speak before the CV does
+current_focus  : DevSecOps, cybersecurity, threat intelligence, automation
+standard       : if it is on GitHub, it must tell a story
+weakness_to_kill: unfinished projects with no README, no demo, no screenshots
+rule           : no academic-project smell, package everything like a real product
