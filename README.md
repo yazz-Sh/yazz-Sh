@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff1f5,35:f9a8d4,70:f0abfc,100:c4b5fd&height=230&section=header&text=Yasmine%20Shili&fontSize=60&fontColor=111827&animation=fadeIn&fontAlignY=36&desc=SOC%20Analyst%20%7C%20Threat%20Intelligence%20%7C%20Incident%20Response%20%7C%20Security%20Automation&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff1f5,35:f9a8d4,70:f0abfc,100:c4b5fd&height=230&section=header&text=Yasmine%20Shili&fontSize=60&fontColor=111827&animation=fadeIn&fontAlignY=36&desc=SOC%20Oriented%20Cybersecurity%20%7C%20Threat%20Intelligence%20%7C%20Incident%20Response&descAlignY=58&descSize=18" width="100%" />
 
 <br>
 
@@ -10,11 +10,11 @@
 <br>
 
 <a href="https://github.com/yazz-Sh?tab=repositories">
-<img src="https://img.shields.io/badge/Security%20Labs-fff1f5?style=for-the-badge&logo=github&logoColor=111827&labelColor=f9a8d4" />
+<img src="https://img.shields.io/badge/Repositories-fff1f5?style=for-the-badge&logo=github&logoColor=111827&labelColor=f9a8d4" />
 </a>
 
-<a href="https://github.com/yazz-Sh?tab=projects">
-<img src="https://img.shields.io/badge/Threat%20Intel%20Projects-fdf2f8?style=for-the-badge&logo=githubactions&logoColor=111827&labelColor=f0abfc" />
+<a href="https://github.com/yazz-Sh/devsecops-secure-cicd-pipeline">
+<img src="https://img.shields.io/badge/Secure%20CI%2FCD-fdf2f8?style=for-the-badge&logo=githubactions&logoColor=111827&labelColor=f0abfc" />
 </a>
 
 <a href="https://www.linkedin.com/">
@@ -30,11 +30,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=yazz-Sh&label=PROFILE%20VIEWS&color=f472b6&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/yazz-Sh?label=FOLLOWERS&style=for-the-badge&color=f9a8d4&logo=github&logoColor=111827" />
-<img src="https://img.shields.io/badge/SECURITY%20FOCUS-SOC%20%26%20CTI-fce7f3?style=for-the-badge&labelColor=be185d" />
+<img src="https://img.shields.io/badge/FOCUS-SOC%20%26%20CTI-fce7f3?style=for-the-badge&labelColor=be185d" />
 
 </div>
 
-<hr>
+<br>
 
 <div align="center">
 
@@ -42,20 +42,23 @@
 
 </div>
 
+<br>
+
 <h2 align="center">About Me</h2>
 
 <p align="center">
-I am a SOC-oriented cybersecurity builder focused on threat detection, incident response, alert enrichment, and cyber threat intelligence.
+I am a cybersecurity learner and builder with a strong interest in SOC operations,
+threat intelligence, detection engineering, and incident response.
 </p>
 
 <p align="center">
-My work is centered around building security projects that show real analyst reasoning:
-what happened, what indicators matter, how to investigate, and how to respond.
+My GitHub is being rebuilt into a real portfolio: clean projects, clear documentation,
+and security-focused work that shows analyst reasoning instead of random academic noise.
 </p>
 
-<hr>
+<br>
 
-<h2 align="center">Core Focus</h2>
+<h2 align="center">Current Direction</h2>
 
 <div align="center">
 
@@ -80,108 +83,121 @@ what happened, what indicators matter, how to investigate, and how to respond.
 
 </div>
 
-<hr>
+<br>
 
-<h2 align="center">Security Operations Control Room</h2>
+<h2 align="center">Real Public Repositories</h2>
+
+<p align="center">
+No fake labs here. These are the public repositories currently available on my GitHub.
+</p>
+
+<br>
 
 <div align="center">
 
-<h3>SOC Labs</h3>
-<p>Detection rules, alert triage, dashboards, and blue-team experiments.</p>
-<a href="https://github.com/yazz-Sh?tab=repositories&q=soc">
-<img src="https://img.shields.io/badge/Open%20SOC%20Repos-fff1f5?style=for-the-badge&logo=github&logoColor=111827&labelColor=f9a8d4" />
-</a>
-
-<br>
-<br>
-
-<h3>Threat Intelligence</h3>
-<p>IOC enrichment, CVE correlation, investigation logic, and CTI workflows.</p>
-<a href="https://github.com/yazz-Sh?tab=repositories&q=threat">
-<img src="https://img.shields.io/badge/Open%20CTI%20Repos-fdf2f8?style=for-the-badge&logo=githubactions&logoColor=111827&labelColor=f0abfc" />
-</a>
-
-<br>
-<br>
-
-<h3>Security Automation</h3>
-<p>Scripts and workflows that reduce manual analyst work.</p>
-<a href="https://github.com/yazz-Sh?tab=repositories&q=security">
-<img src="https://img.shields.io/badge/Open%20Security%20Repos-ffe4e6?style=for-the-badge&logo=python&logoColor=111827&labelColor=f472b6" />
-</a>
-
-</div>
-
-<hr>
-
-<h2 align="center">Featured Security Builds</h2>
-
-<div align="center">
-
-<h3>SOC & Incident Response Ecosystem</h3>
-<p>A blue-team project focused on detection, alert analysis, incident response, and analyst decision support.</p>
-<p><b>Focus:</b> SOC workflows · Alert triage · Incident response · Detection logic · Dashboarding</p>
-<a href="https://github.com/yazz-Sh?tab=repositories&q=soc">
-<img src="https://img.shields.io/badge/View%20SOC%20Projects-fff1f5?style=for-the-badge&logo=github&logoColor=111827&labelColor=f9a8d4" />
-</a>
-
-<br>
-<br>
-
-<h3>Cyber Threat Intelligence Console</h3>
-<p>A CTI-oriented project for enriching alerts with vulnerability intelligence, IOC context, and investigation recommendations.</p>
-<p><b>Focus:</b> Threat Intelligence · CVE Correlation · IOC Enrichment · MISP · Cortex · Wazuh</p>
-<a href="https://github.com/yazz-Sh?tab=repositories&q=security">
-<img src="https://img.shields.io/badge/View%20CTI%20Projects-fdf2f8?style=for-the-badge&logo=github&logoColor=111827&labelColor=f0abfc" />
-</a>
-
-<br>
-<br>
-
-<h3>Detection Engineering Experiments</h3>
-<p>Experiments around log analysis, suspicious behavior detection, correlation logic, and security monitoring.</p>
-<p><b>Focus:</b> Detection rules · Logs · SIEM thinking · MITRE ATT&CK mindset</p>
-<a href="https://github.com/yazz-Sh?tab=repositories&q=detection">
-<img src="https://img.shields.io/badge/View%20Detection%20Work-ffe4e6?style=for-the-badge&logo=github&logoColor=111827&labelColor=fbcfe8" />
-</a>
-
-<br>
-<br>
-
-<h3>DevSecOps as a Supporting Skill</h3>
-<p>DevSecOps matters because secure delivery helps security teams reduce risk earlier.</p>
-<p><b>Focus:</b> CI/CD security · Pipeline checks · Container hygiene · Automation</p>
 <a href="https://github.com/yazz-Sh/devsecops-secure-cicd-pipeline">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=yazz-Sh&repo=devsecops-secure-cicd-pipeline&bg_color=fff1f5&title_color=be185d&text_color=111827&icon_color=f472b6&border_color=f9a8d4" />
 </a>
 
+<br>
+<br>
+
+<a href="https://github.com/yazz-Sh/Jenkins-Springboot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yazz-Sh&repo=Jenkins-Springboot&bg_color=fff1f5&title_color=be185d&text_color=111827&icon_color=f472b6&border_color=f9a8d4" />
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/yazz-Sh/CampConnect_Symfony">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yazz-Sh&repo=CampConnect_Symfony&bg_color=fff1f5&title_color=be185d&text_color=111827&icon_color=f472b6&border_color=f9a8d4" />
+</a>
+
+<br>
+<br>
+
+<a href="https://github.com/yazz-Sh/campconnect_java">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=yazz-Sh&repo=campconnect_java&bg_color=fff1f5&title_color=be185d&text_color=111827&icon_color=f472b6&border_color=f9a8d4" />
+</a>
+
 </div>
 
-<hr>
+<br>
+
+<h2 align="center">Repository Map</h2>
+
+<div align="center">
+
+<h3>devsecops-secure-cicd-pipeline</h3>
+<p>
+A secure CI/CD pipeline project. This supports my cybersecurity direction by showing
+how security checks can be integrated earlier into the delivery process.
+</p>
+<a href="https://github.com/yazz-Sh/devsecops-secure-cicd-pipeline">
+<img src="https://img.shields.io/badge/Open%20Repository-fff1f5?style=for-the-badge&logo=github&logoColor=111827&labelColor=f9a8d4" />
+</a>
+
+<br>
+<br>
+
+<h3>Jenkins-Springboot</h3>
+<p>
+A Jenkins and Spring Boot project showing CI/CD basics and automation practice.
+</p>
+<a href="https://github.com/yazz-Sh/Jenkins-Springboot">
+<img src="https://img.shields.io/badge/Open%20Repository-fdf2f8?style=for-the-badge&logo=jenkins&logoColor=111827&labelColor=f0abfc" />
+</a>
+
+<br>
+<br>
+
+<h3>CampConnect Symfony</h3>
+<p>
+A Symfony-based web application project. It shows backend structure, web development,
+and application logic from an academic/full-stack project.
+</p>
+<a href="https://github.com/yazz-Sh/CampConnect_Symfony">
+<img src="https://img.shields.io/badge/Open%20Repository-ffe4e6?style=for-the-badge&logo=symfony&logoColor=111827&labelColor=f472b6" />
+</a>
+
+<br>
+<br>
+
+<h3>campconnect_java</h3>
+<p>
+A Java version of the CampConnect project. It shows earlier application development work
+and Java project structure.
+</p>
+<a href="https://github.com/yazz-Sh/campconnect_java">
+<img src="https://img.shields.io/badge/Open%20Repository-fce7f3?style=for-the-badge&logo=java&logoColor=111827&labelColor=f9a8d4" />
+</a>
+
+</div>
+
+<br>
 
 <h2 align="center">Security Toolbox</h2>
 
 <div align="center">
 
-<h3>SOC, CTI & Incident Response</h3>
+<h3>SOC / CTI Tools I Am Building Toward</h3>
 
 <img src="https://img.shields.io/badge/Wazuh-fff1f5?style=for-the-badge&logoColor=111827" />
 <img src="https://img.shields.io/badge/Elastic-fdf2f8?style=for-the-badge&logo=elastic&logoColor=111827" />
 <img src="https://img.shields.io/badge/MISP-f9a8d4?style=for-the-badge&logoColor=111827" />
 <img src="https://img.shields.io/badge/Cortex-f472b6?style=for-the-badge&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/IRIS-fbcfe8?style=for-the-badge&logoColor=111827" />
 <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-be185d?style=for-the-badge&logoColor=ffffff" />
 
 <br>
 <br>
 
-<h3>Engineering Stack Behind the Security Work</h3>
+<h3>Engineering Stack</h3>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,vue,docker,linux,postgresql,git,bash" />
+<img src="https://skillicons.dev/icons?i=python,java,js,php,symfony,spring,docker,jenkins,linux,git,github,bash" />
 
 </div>
 
-<hr>
+<br>
 
 <h2 align="center">Analyst Mindset</h2>
 
@@ -189,29 +205,27 @@ what happened, what indicators matter, how to investigate, and how to respond.
 
 <p><b>Mission:</b> turn noisy alerts into clear security decisions</p>
 <p><b>Primary focus:</b> SOC, threat intelligence, incident response, detection engineering</p>
-<p><b>Secondary skill:</b> DevSecOps and automation, used to strengthen security operations</p>
+<p><b>Supporting skills:</b> CI/CD, backend development, automation, and system thinking</p>
 <p><b>Workflow:</b> collect → investigate → correlate → prioritize → respond → document</p>
-<p><b>Standard:</b> every project must explain the threat, the detection, and the response</p>
+<p><b>Standard:</b> every future security project must explain the threat, the detection, and the response</p>
 
 </div>
 
-<hr>
+<br>
 
-<h2 align="center">Currently Exploring</h2>
+<h2 align="center">What Comes Next</h2>
 
 <div align="center">
 
-<p>Alert enrichment pipelines</p>
-<p>SOC dashboards</p>
-<p>IOC and CVE correlation</p>
-<p>Incident response playbooks</p>
-<p>Wazuh and Elastic-based detection</p>
-<p>Threat intelligence workflows</p>
-<p>Automated analyst recommendations</p>
+<p>Build a real SOC lab repository</p>
+<p>Document detection rules and alert triage scenarios</p>
+<p>Create a threat intelligence enrichment project</p>
+<p>Publish incident response playbooks</p>
+<p>Turn existing academic projects into polished portfolio assets</p>
 
 </div>
 
-<hr>
+<br>
 
 <h2 align="center">GitHub Activity</h2>
 
@@ -231,29 +245,14 @@ what happened, what indicators matter, how to investigate, and how to respond.
 
 </div>
 
-<hr>
-
-<h2 align="center">Pinned Repository Strategy</h2>
-
-<div align="center">
-
-<p><b>1.</b> Best SOC / incident response project</p>
-<p><b>2.</b> Best threat intelligence project</p>
-<p><b>3.</b> Best detection engineering project</p>
-<p><b>4.</b> Best security dashboard</p>
-<p><b>5.</b> Best automation script</p>
-<p><b>6.</b> DevSecOps secure pipeline as a secondary strength</p>
-
-</div>
-
-<hr>
+<br>
 
 <h2 align="center">Connect</h2>
 
 <div align="center">
 
 <a href="https://github.com/yazz-Sh?tab=repositories">
-<img src="https://img.shields.io/badge/GitHub-Explore%20my%20security%20work-fff1f5?style=for-the-badge&logo=github&logoColor=111827&labelColor=f9a8d4" />
+<img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-fff1f5?style=for-the-badge&logo=github&logoColor=111827&labelColor=f9a8d4" />
 </a>
 
 <a href="https://www.linkedin.com/">
