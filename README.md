@@ -1,19 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,45:9d174d,100:6d28d9&text=Yasmine%20Shili&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Purple%20Team%20%C2%B7%20Detection%20Engineering%20%C2%B7%20Cloud%20%26%20AI%20Security&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=F472B6&center=true&vCenter=true&width=820&lines=Cybersecurity+engineering+student+%40+ESPRIT;Break+it+%E2%86%92+detect+it+%E2%86%92+fix+it;Looking+for+a+6-month+PFE+internship+%E2%80%94+Jan+2027" alt="Typing intro" />
+<img src="./assets/header.svg" alt="Yasmine Shili — Purple Team · Detection Engineering · Cloud & AI Security · Open to PFE internship (6 months, January 2027)" width="100%" />
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/yasmine-shili"><img src="https://img.shields.io/badge/LinkedIn-yasmine--shili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yasmine-shili"><img src="https://img.shields.io/badge/LinkedIn-yasmine--shili-0A66C2?style=for-the-badge" /></a>
 <a href="mailto:yasmine.shili.04@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-be185d?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://yazz.sh"><img src="https://img.shields.io/badge/Blog-yazz.sh-6d28d9?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-<a href="https://www.root-me.org/yazz"><img src="https://img.shields.io/badge/Root--Me-yazz-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" /></a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20PFE%20INTERNSHIP-6%20months%20%C2%B7%20from%20January%202027%20%C2%B7%20Tunis%20or%20France-16a34a?style=for-the-badge" />
+<a href="https://www.root-me.org/yazz"><img src="https://img.shields.io/badge/Root--Me-yazz-111827?style=for-the-badge" /></a>
 
 </div>
 
@@ -168,26 +162,15 @@ A GitHub Actions pipeline that runs security checks on every push to a Node.js/E
 
 ---
 
-## 📊 GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yazz-Sh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=a78bfa&text_color=e5e7eb&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazz-Sh&layout=compact&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=e5e7eb" alt="Top languages" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 📬 Let's talk
 
 **Have a PFE topic in detection, red team or AI security?** I'd like to hear about it.
 
-<a href="https://www.linkedin.com/in/yasmine-shili"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yasmine-shili"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
 <a href="mailto:yasmine.shili.04@gmail.com"><img src="https://img.shields.io/badge/yasmine.shili.04%40gmail.com-be185d?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0d1117,45:9d174d,100:6d28d9" width="100%" />
+<img src="./assets/footer.svg" width="100%" />
 
 </div>
