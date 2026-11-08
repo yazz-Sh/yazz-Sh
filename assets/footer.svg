@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="60" viewBox="0 0 1200 60">
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f472b6" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#f472b6"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="100" y="28" width="1000" height="2" fill="url(#a)"/>
+  <text x="600" y="54" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="13" fill="#6b7280">break it → detect it → fix it</text>
+</svg>
